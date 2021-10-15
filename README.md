@@ -1,40 +1,6 @@
-## HTML 5 Canvas Clock
+## Projects
+
+### HTML 5 Canvas Clock
 [An analog clock using only HTML5 and Javascript.](https://dday1231.github.io/ClockFaceChallenge.html)
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/dday1231/dday1231.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dday1231/dday1231.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This was a coding challenge that involved using some trigonometry, HTML5, and Javascript to build an analog clock face that keeps accurate time.
+I worked on this challenge a few hours each day for 2 or 3 days. I spent most of the project refining my understanding of how the seconds, minutes, and hour hands must move together in correct proportions and to get the hour hand to move smoothly for a realistic look.
