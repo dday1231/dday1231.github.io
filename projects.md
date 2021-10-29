@@ -1,3 +1,8 @@
+---
+layout: page
+title: Projects
+---
+
 ## Projects
 
 ### HTML 5 Canvas Clock
