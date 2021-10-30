@@ -2,7 +2,7 @@
 layout: page
 title:  "Home!"
 ---
-## Home
+## Home 1
 <ul>
   {% for post in site.posts %}
     <li>
