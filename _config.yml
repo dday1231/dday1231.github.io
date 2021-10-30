@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: David Day
 description: Musings in code
+baseurl: '/' # the subpath of your site, e.g. /blog
